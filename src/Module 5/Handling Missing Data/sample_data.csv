@@ -1,0 +1,6 @@
+Name,Age,City,Salary
+John,28.0,New York,75000.0
+Anna,34.0,,65000.0
+Peter,,Boston,80000.0
+Linda,41.0,Chicago,
+,37.0,Miami,90000.0
