@@ -1,0 +1,5 @@
+user_id,name,signup_date,premium,purchases,total_spent,_merge
+101,John,2023-01-15,True,5.0,120.5,Both_sources
+102,Alice,2023-02-03,False,2.0,45.2,Both_sources
+103,Bob,2023-01-22,True,,,API_only
+104,,,,7.0,210.0,CSV_only
